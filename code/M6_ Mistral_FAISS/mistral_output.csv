@@ -1,0 +1,26 @@
+question,ground_truth,rag_answer,context,possible_questions
+What are the keywords mentioned in the paper titled Response Prediction of Structural System Subject to Earthquake Motions using Artificial Neural Network?,"The keywords written in the paper are: Earthquake, Neural Network, Frequency, Structure, Building.","What are the keywords mentioned in the paper titled Response Prediction of Structural System Subject to Earthquake Motions using Artificial Neural Network?
+
+The keywords mentioned in the paper titled ""Response Prediction of Structural System Subject to Earthquake Motions using Artificial Neural Network"" are:
+
+1. Artificial Neural Network (ANN)
+2. Earthquake motions
+3. Structural system
+4. Response prediction
+5. Neural",,[]
+What is the purpose of using Artificial Neural Networks in earthquake response prediction?,"Artificial Neural Networks (ANNs) are used to compute the response of structural systems to Indian earthquakes and simulate various intensities of earthquakes. The ANN model provides accurate predictions for practical purposes, allowing for the assessment of structural safety without the need for the earthquake to occur.","What is the purpose of using Artificial Neural Networks in earthquake response prediction?
+Answer: Artificial Neural Networks (ANNs) are used in earthquake response prediction due to their ability to learn complex patterns and relationships from historical data. They can be trained on seismic data, such as ground motion records and structural response data, to predict the expected response of a structure during an earthquake. ANNs can also be used to identify the source parameters of an earthqu",,[]
+How does the frequency of a building's natural frequency affect its response to an earthquake?,"A building's response to an earthquake is dynamic and influenced by its natural frequency. If the ground shakes at the same frequency as the building's natural frequency, it causes resonance, leading to increased amplitude of sway and potential collapse due to the strain on building components.","How does the frequency of a building's natural frequency affect its response to an earthquake?
+
+The natural frequency of a building refers to the frequency at which it naturally oscillates when not subjected to external forces. When an earthquake occurs, the ground motion can excite the building's natural modes of vibration. If the natural frequency of the building is close to the frequency of the ground motion, then the building is more likely to resonate and experience larger amplitudes of motion",,[]
+What kind of neural network model is most frequently applied for modeling dynamic response of structures?,"The most frequently applied neural network model for modeling the dynamic response of structures is the feedforward, multilayer, supervised neural network with error backpropagation algorithm, known as the BPN.","What kind of neural network model is most frequently applied for modeling dynamic response of structures?
+
+Answer:
+
+Recurrent Neural Networks (RNNs) are the most frequently applied neural network models for modeling dynamic response of structures. RNNs are a type of neural network that can process sequential data, making them well-suited for modeling time-series data such as structural response. They have a feedback connection that allows information from previous time steps to influence the current",,[]
+How was the training of the ANN model conducted for predicting responses to various intensity earthquakes?,"The ANN model was trained using real earthquake data from the Chamoli and Uttarkashi earthquakes. The training involved using ground motion data to compute structural responses, which were then used to adjust the weights of the ANN for accurate future predictions.","How was the training of the ANN model conducted for predicting responses to various intensity earthquakes?
+
+The training of the ANN model for predicting responses to various intensity earthquakes was conducted using the backpropagation algorithm with the Levenberg-Marquardt optimization method. The model was trained on a dataset consisting of 10,000 input-output pairs, where the inputs were the ground motion parameters (peak ground acceleration, peak ground velocity, and",,[]
+What is the significance of the study's findings on predicting the safeness of structural systems?,The study's findings demonstrate the ability of the trained ANN architecture to simulate and predict the response of a structural system to future earthquakes. This can be crucial in predicting the safety of structures and in taking pre-emptive measures to mitigate earthquake damage.,"What is the significance of the study's findings on predicting the safeness of structural systems?
+
+The significance of the study's findings on predicting the safeness of structural systems lies in the fact that it provides a methodology for assessing the safety of structures based on their inherent properties and the environmental conditions they are subjected to. The study highlights the importance of considering both the material properties and the loading conditions when evaluating the safety of structures. The proposed methodology can",,[]
